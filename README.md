@@ -39,6 +39,10 @@ python evals/run_eval.py                    # 联网 recall@10 评测
 - 产品设计：docs/PRD.md ｜ 技术方案：docs/TECH.md ｜ 业务约束：AGENTS.md
 - 演示卡片：examples/
 
+## 许可证
+MIT License — 欢迎使用、修改与分发；科研辅助工具，关键结论需人工复核。
+
 ## 定位声明
 MatScout 是科研辅助工具（co-scientist），不代写代发论文；所有交付物含 AI 使用披露，关键结论需人工复核。
+
 
