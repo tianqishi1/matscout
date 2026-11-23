@@ -1,0 +1,5 @@
+{"id": "gnn-universal-potential", "idea": "用图神经网络通用原子间势加速无机晶体稳定性筛选", "query": "deep learning graph neural network interatomic potential crystal stability materials discovery", "expected_dois": ["10.1038/s41586-023-06735-9", "10.1038/s43588-022-00349-3", "10.1038/s42256-023-00716-3"]}
+{"id": "autonomous-synthesis-lab", "idea": "自主机器人实验室加速新型无机材料固态合成", "query": "autonomous laboratory accelerated synthesis novel inorganic materials", "expected_dois": ["10.1038/s41586-023-06734-w"]}
+{"id": "generative-inorganic-design", "idea": "生成式扩散模型逆向设计稳定无机晶体材料", "query": "generative model inorganic materials design diffusion", "expected_dois": ["10.1038/s41586-025-08628-5"]}
+{"id": "llm-multiagent-discovery", "idea": "大语言模型多智能体+知识图谱自动产生仿生材料科研假设", "query": "multi-agent generative AI scientific discovery bioinspired materials knowledge graph", "expected_dois": ["10.1002/adma.202413523"]}
+
