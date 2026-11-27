@@ -1,11 +1,14 @@
 # MatScout — 材料科研查新副驾驶（Skill + MCP 工具层）
 
+
+> **生态**：底座 [agent-base](https://github.com/tianqishi1/agent-base) · 评测 [eval-pipeline](https://github.com/tianqishi1/eval-pipeline) · 技能 [marketing-skills-cn](https://github.com/tianqishi1/marketing-skills-cn)
+
 把「想法 → 最接近工作 → 差异点 → 可行性」做成**可溯源、可核查、零引用幻觉**的查新卡片。
 零第三方依赖，Python 3.10+ 即可运行。
 
 ## 快速开始（CLI，无需 MCP 宿主）
 ```powershell
-$env:PYTHONPATH = "D:\codex\matscout\src"
+$env:PYTHONPATH = "matscout\src"
 python -m matscout.cli create-project --name "demo" --field "固态电解质" --idea "用高熵氯化物固态电解质提升锂金属电池界面稳定性"
 python -m matscout.cli search --project 1 --query "high-entropy chloride solid electrolyte lithium" --limit 10
 python -m matscout.cli verify --doi "10.1038/s41586-023-06735-9"
